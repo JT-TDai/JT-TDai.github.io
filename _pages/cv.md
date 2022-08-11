@@ -14,7 +14,7 @@ Education
 
 * Ph.D. in Artificial Intelligence and Robotics, University of Manchester, 2021
 
-Work experience
+Work Experience
 ======
 * 2021 - Now: PDRA
   * University of Liverpool
