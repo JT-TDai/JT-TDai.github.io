@@ -25,4 +25,4 @@ Skills
 ======
 * IT: Microsoft Office, Matlab, Labview/DAQ, CAD, ROS, OpenCV, Linux, Python, Java, TensorFlow, C++, LaTeX, GitHub, Kuka, ABB, AIoT.
 
-* Languages:English, Mandarin.
+* Languages: English, Mandarin.
