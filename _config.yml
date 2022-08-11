@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Tianwei Dai"
+title                    : "Tianwei Dai"
 title_separator          : "-"
 name                     : &name "Tianwei Dai"
 description              : &description "PDRA at the University of Liverpool, supervised by Prof. A. I. Cooper FRS"
