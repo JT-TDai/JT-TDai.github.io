@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2021 - now: PDRA
+* 2021 - Now: PDRA
   * University of Liverpool
   * Duties included: Building the next generation Intelligent Automation System (IAS) for Materials Innovation Factory at the University of Liverpool (Cooper Group).
   * Supervisor: Professor Andrew Ian Cooper (Fellow of the Royal Society)
