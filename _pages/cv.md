@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 
-* M.S. in Advanced Control and Systems Engineering, University of Manchester, 2014
 * Ph.D. in Artificial Intelligence and Robotics, University of Manchester, 2021
 
 Work experience
