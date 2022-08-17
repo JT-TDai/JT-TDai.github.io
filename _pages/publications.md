@@ -5,7 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+PhD Thesis:
+
+Dai, T., 2021. Information Fusion for Autonomous Internet of Things (Doctoral dissertation, University of Manchester).
+
+SCI Journal Paper:
+
 Dai, T. and Ding, Z., 2020. Online distributed distance-based outlier clearance approaches for wireless sensor networks. Pervasive and Mobile Computing, 63, p.101130.
+
+IEEE Conference Papers:
 
 Dai, T. and Ding, Z., 2020, July. Coordinated Sensing Coverage with Distributed Deep Reinforcement Learning. In 2020 39th Chinese Control Conference (CCC) (pp. 5203-5208). IEEE.
 
