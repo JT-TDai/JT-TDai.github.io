@@ -8,6 +8,7 @@ Creating the next generation Intelligent Automation System (IAS) for Materials I
 
 IAS is a combination of Robotic Process Automation (Kuka iiwa KMR, ABB YuMi, etc.), IoT technologies and Artificial Intelligence (Bayesian Optimization, Computer Vision, etc.) which together empower rapid end-to-end process automation and accelerate digital transformation, allowing the discovery of useful products such as energy materials, special medicine, etc.
 
+<img src="https://github.com/JT-TDai/JT-TDai.github.io/blob/master/images/1.jpg"/>
 ![image](https://github.com/JT-TDai/JT-TDai.github.io/blob/master/images/1.jpg)
 ![image](https://github.com/JT-TDai/JT-TDai.github.io/blob/master/images/2.jpg)
 ![image](https://github.com/JT-TDai/JT-TDai.github.io/blob/master/images/3.jpg)
