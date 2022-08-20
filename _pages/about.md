@@ -15,6 +15,6 @@ Creating the next generation Intelligent Automation System (IAS) for Materials I
 
 IAS is a combination of Robotic Process Automation (Kuka iiwa KMR, ABB YuMi, etc.), IoT technologies and Artificial Intelligence (Bayesian Optimization, Computer Vision, etc.) which together empower rapid end-to-end process automation and accelerate digital transformation, allowing the discovery of useful products such as energy materials, special medicine, etc.
 
-Research collaboration with Kuka, Unilever, Roche, etc.
+System (IAS) architecture design and software development, IAS Control Panel, which could control different workflows, show the related progress and other functions.
 
 https://www.liverpool.ac.uk/cooper-group/people/tianwei-dai/
